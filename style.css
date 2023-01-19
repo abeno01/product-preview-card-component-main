@@ -80,7 +80,6 @@ body {
 .product {
   display: grid;
   align-items: center;
-  border: 2px solid black;
 
   --content-padding: 2.4rem;
   --content-spacing: 1.6rem;
